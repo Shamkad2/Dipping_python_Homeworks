@@ -1,0 +1,20 @@
+{
+    "C:\\Users\\user\\PycharmProjects\\pythonProject\\GEEK\\Dipping_python\\Homeworks": {
+        "object_type": "Directory",
+        "object_name": "HW_8",
+        "object_size": 20565,
+        "parant_directory": "Homeworks"
+    },
+    "C:\\Users\\user\\PycharmProjects\\pythonProject\\GEEK\\Dipping_python\\Homeworks\\HW_8\\": {
+        "object_type": "Directory",
+        "object_name": "seminar_8",
+        "object_size": 7833,
+        "parant_directory": "HW_8"
+    },
+    "C:\\Users\\user\\PycharmProjects\\pythonProject\\GEEK\\Dipping_python\\Homeworks\\HW_8\\seminar_8": {
+        "object_type": "File",
+        "object_name": "task_4.py",
+        "object_size": 1719,
+        "parant_directory": "seminar_8"
+    }
+}
